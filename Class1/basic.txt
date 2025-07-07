@@ -1,0 +1,33 @@
+what is node js ? -> it is a runtime environment for javascript, not a framework not a library 
+and not a language.
+
+what is npm init? -> it initialisez the node js , where you can easily run javascript.
+
+what is npm init -y? -> skip extra details & fills required automatically. 
+
+what is package.json ? -> stores the details of the (applications like scripts )
+project, in another words we can say it is the meta data.
+
+what are scripts ? -> short commands that can be used.
+
+what is express? -> 
+
+what are dependencies? -> dependencies are external libraries or modules that your project 
+needs to work properly
+
+what are node modules ? -> is a special folder where all the installed dependencies (packages) for 
+your project are stored.
+node modules are not uploaded on the github , because they are very large in size
+
+what is port ? A port is a virtual number that allows multiple services (like websites, email, databases) to run on a single computer
+(IP address) without interfering with each other.
+
+our server works on localhost 
+
+what is mapping of localhost 
+127.0.0.1 (IPv4)
+::1       (IPv6) 	Same as 127.0.0.1
+
+
+what is modular approach? 
+
