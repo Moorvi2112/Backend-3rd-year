@@ -1,0 +1,12 @@
+to create api there are 2 creteria
+1.type(get,post,put,patch.delete)
+2.path("/","/user","/all/users")
+get(fastest)=to get data from backend
+post=to send data to backend(secure way)
+put=to update data in backend
+patch=to update partial data in backend
+delete=to delete data from backend
+this error toh what status
+404 error not found
+postman
+parent folder==collection
