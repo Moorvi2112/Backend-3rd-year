@@ -1,0 +1,10 @@
+SSR : server side rendering
+browseer send request to get html file
+manipulation is done on backend
+backend serves the ui
+eg public folder,template engine
+
+CSR: client side rendering
+send request to backend for data
+maqnipulate data (dom// react) to show ui
+backend and frontend both are different

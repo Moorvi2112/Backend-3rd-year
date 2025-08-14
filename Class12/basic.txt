@@ -1,0 +1,8 @@
+Auth
+1. authentication : 1. Register a user to our website db(signup)
+                    2.providing access to enter and used our website(login)
+
+                    Security: user details like password must not be available to any developer of website
+            (to achieve this we encrypt the user password and then stores it in db)
+
+            encrypt

@@ -1,0 +1,16 @@
+mongoose
+provides connection to cluster 
+pri=ovides easy queries for CRUD operation 
+provides structure to the collection
+
+structure: defining attribute(fields)
+defines attributes types
+put restriction on attribute value
+in mongoose collection is model
+
+
+folder structure
+model:schemas and create collection
+views :html css  
+route: categraisation of api as the need of application
+controllers:to write logic function setc

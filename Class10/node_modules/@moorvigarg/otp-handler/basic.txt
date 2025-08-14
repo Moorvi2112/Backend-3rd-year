@@ -1,0 +1,6 @@
+these are the global code which are free to use in our projects
+we don't have to write the code just install import and use
+uses:we can share code globally with others and functionalities
+     can act as common point for both "Frontend" & "Backend".
+     common pint means share or use same function in both Frontend & Backend.(reference==common folder in microservices)
+

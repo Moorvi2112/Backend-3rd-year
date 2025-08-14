@@ -1,0 +1,9 @@
+Authorization: checks whether a current user is logged in or not(authenticated user)
+role based access(eg:admin has access to hidden pages and functionality)
+difference b/w normal user and permission user
+
+Packages:
+Jwt(jsonwebtoken)(client&server)
+express-session(server-side)
+cookies(helper)
+passportis(googleauth)facebook auth/normalauth(third party application)
